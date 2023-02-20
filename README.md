@@ -22,6 +22,7 @@ Git Commands To Know
 git clone [insert repo url]
 ```
 * Typically, in a workshop presentation, they will share a github repository link. You should first fork it and then clone it on to your machine.
+* More Git Commands: https://www.hostinger.com/tutorials/basic-git-commands
 
 ### 3) Get familiar with Solidity! (I recommend lessons 1-6 of crypto zombies, it'll get you used to the syntax and how smart contracts / the blockchain works. You can finish this tutorial in 1-2 days.)
 * Learn solidity: https://cryptozombies.io/en/course/
