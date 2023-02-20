@@ -27,6 +27,8 @@ git clone [insert repo url]
 * https://cryptozombies.io/en/course/
 * If you want a more hands-on approach, I recommend Alchemy's Road To Web3 where they provide project-based learning + video tutorials.
 * https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
+* If you want a fullstack blockchain tutorial, I recommend: 
+https://www.30daysofweb3.xyz/en/curriculum/1-getting-started/0-overview
 
 # Front-End Development Must Haves
 * Download node.js & npm
