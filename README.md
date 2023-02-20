@@ -28,7 +28,7 @@ git clone [insert repo url]
 * If you want a more hands-on approach, I recommend Alchemy's Road To Web3 where they provide project-based learning + video tutorials.
 * https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
 
-# Front-End Development - this is important to have so you can create a front-end
+# Front-End Development Must Haves
 * Download node.js & npm
 * [Node.js](https://nodejs.org/en/) -> when you install node, npm comes with it so that's all you need!
 * You can check if you already have it installed by running these commands in your terminal
