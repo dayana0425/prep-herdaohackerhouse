@@ -1,7 +1,8 @@
 # H.E.R DAO HACKER HOUSE PREP
 
 There will be many hands-on presentations at the hacker house. Make sure you have these things installed on your machine! :)
-
+### 0) Have a seperate wallet for developing. You don't want to be using your regular wallet!
+* Read more here: https://hello-dayana.hashnode.dev/web3-hackathon-101-how-to-not-expose-your-private-key-mnemonic-phrase
 ### 1) VSCode
 * [VSCode](https://code.visualstudio.com/)
 
