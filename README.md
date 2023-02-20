@@ -15,7 +15,7 @@ git --version
 
 Git Commands To Know
 
-* Fork -> when you visit a github repository, there is a "fork" button, this means you create your own copy of the codebase on your github page.
+* Fork -> when you visit a github repository, there is a "fork" button, this means you create your own copy of the codebase onto your (remote) github page.
 
 * `git clone` -> this will download an existing codebase on github onto your local machine (your computer) so that you can modify/edit it. (this is how to collaborate)
 ```
