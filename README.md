@@ -41,4 +41,4 @@ npm -v
 ```
 
 # For MINA's ZK Workshop - Follow their quick start guide to have everything ready:
-* [QUICK START] (https://docs.minaprotocol.com/zkapps#quickstart)
+* [QUICK START](https://docs.minaprotocol.com/zkapps#quickstart)
