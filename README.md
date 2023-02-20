@@ -24,9 +24,8 @@ git clone [insert repo url]
 * Typically, in a workshop presentation, they will share a github repository link. You should first fork it and then clone it on to your machine.
 
 ### 3) Get familiar with Solidity! (I recommend lessons 1-6 of crypto zombies, it'll get you used to the syntax and how smart contracts / the blockchain works. You can finish this tutorial in 1-2 days.)
-* https://cryptozombies.io/en/course/
-* If you want a more hands-on approach, I recommend Alchemy's Road To Web3 where they provide project-based learning + video tutorials.
-* https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
+* Learn solidity: https://cryptozombies.io/en/course/
+* If you want a more hands-on approach, I recommend Alchemy's Road To Web3 where they provide project-based learning + video tutorials: https://docs.alchemy.com/docs/welcome-to-the-road-to-web3
 * If you want a fullstack blockchain tutorial, I recommend: 
 https://www.30daysofweb3.xyz/en/curriculum/1-getting-started/0-overview
 
